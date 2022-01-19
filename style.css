@@ -29,11 +29,11 @@ body {
 }
 
 .quote-text {
-  font-size: 2.75rem;
+  font-size: 1.25rem;
 }
 
 .long-quote {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .fa-quote {
@@ -42,7 +42,7 @@ body {
 
 .quote-author {
   margin-top: 15px;
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: 400;
   font-style: italic;
 }
@@ -143,7 +143,7 @@ button:active {
     margin: auto 10px;
   }
 
-  .quote-text {
+  /* .quote-text {
     font-size: 3rem;
-  }
+  } */
 }
