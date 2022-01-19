@@ -138,12 +138,12 @@ button:active {
 }
 
 /* Media Query: Mobile */
-@media screen and (max-width: 600px) {
+@media only screen and (-webkit-min-device-pixel-ratio: 3) {
   .quote-container {
     margin: auto 10px;
   }
 
   .quote-text {
-    font-size: 2.5rem;
+    font-size: 1rem;
   }
 }
